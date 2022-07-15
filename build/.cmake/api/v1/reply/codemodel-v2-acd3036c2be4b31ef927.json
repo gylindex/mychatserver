@@ -61,7 +61,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "",
 			"projects" : 
 			[
 				{
@@ -85,14 +85,14 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "ChatClient::@8ca63c80a879d0067daa",
-					"jsonFile" : "target-ChatClient-Debug-0c007dde6e023e6c98b2.json",
+					"jsonFile" : "target-ChatClient-a7528d0cb47cd5b8c803.json",
 					"name" : "ChatClient",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "muduo_server::@2804e40980a64c7d7ad1",
-					"jsonFile" : "target-muduo_server-Debug-fc3a44575a0dfa3a4b93.json",
+					"jsonFile" : "target-muduo_server-74aa213047f61fc6c897.json",
 					"name" : "muduo_server",
 					"projectIndex" : 0
 				}
@@ -102,8 +102,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/gyl/myworld/mymuduoqq/build",
-		"source" : "/home/gyl/myworld/mymuduoqq"
+		"build" : "/home/gyl/myworld/mymuduoqq/mychatserver/build",
+		"source" : "/home/gyl/myworld/mymuduoqq/mychatserver"
 	},
 	"version" : 
 	{

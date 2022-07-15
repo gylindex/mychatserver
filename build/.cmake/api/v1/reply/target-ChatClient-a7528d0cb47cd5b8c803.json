@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/gyl/myworld/mymuduoqq/bin/ChatClient"
+			"path" : "/home/gyl/myworld/mymuduoqq/mychatserver/bin/ChatClient"
 		}
 	],
 	"backtrace" : 1,
@@ -70,30 +70,30 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -g  "
+					"fragment" : "-g  "
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/gyl/myworld/mymuduoqq/include/server"
+					"path" : "/home/gyl/myworld/mymuduoqq/mychatserver/include/server"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/home/gyl/myworld/mymuduoqq/include"
+					"path" : "/home/gyl/myworld/mymuduoqq/mychatserver/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/gyl/myworld/mymuduoqq/thridparty"
+					"path" : "/home/gyl/myworld/mymuduoqq/mychatserver/thridparty"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/gyl/myworld/mymuduoqq/include/server/db"
+					"path" : "/home/gyl/myworld/mymuduoqq/mychatserver/include/server/db"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/gyl/myworld/mymuduoqq/include/server/redis"
+					"path" : "/home/gyl/myworld/mymuduoqq/mychatserver/include/server/redis"
 				}
 			],
 			"language" : "CXX",
@@ -109,7 +109,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g -g",
+				"fragment" : "-g",
 				"role" : "flags"
 			},
 			{
